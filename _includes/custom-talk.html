@@ -1,0 +1,12 @@
+{% comment %}
+  Talk display format:
+  "Month Year" : "poster/presentation" on "title" at "conference", "University", "city"
+{% endcomment %}
+
+<div class="talk-item">
+  <p class="talk-meta">
+    {{ pub.date | date: "%B %Y" }} : {{ pub.type | capitalize }} on "{{ pub.title }}" at {{ pub.conference }}, {{ pub.university }}, {{ pub.city }}
+    {% if pub.manuscript %} – <a href="{{ pub.manuscript | relative_url }}">manuscript</a>{% endif %}
+    {% if pub.slides %} – <a href="{{ pub.slides | relative_url }}" download>slides</a>{% endif %}
+  </p>
+</div>

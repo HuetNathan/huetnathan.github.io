@@ -1,0 +1,10 @@
+<div class="pub-item">
+  <h3 class="pub-title">{{ pub.title }}</h3>
+  <p class="pub-meta">
+    {% if pub.author %}{{ pub.author }}{% endif %}
+    {% if pub.supervisors %} supervised by {{ pub.supervisors }}{% endif %}
+    {% if pub.year %} ({{ pub.year }}){% else %} ({{ pub.date | date: "%Y" }}){% endif %}
+    {% if pub.manuscript %} – <a href="{{ pub.manuscript | relative_url }}">manuscript</a>{% endif %}
+    {% if pub.slides %} – <a href="{{ pub.slides | relative_url }}" download>slides</a>{% endif %}
+  </p>
+</div>
