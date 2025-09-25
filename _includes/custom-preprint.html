@@ -8,10 +8,21 @@
   <h3 class="pub-title">{{ pub.title }}</h3>
   <p class="pub-meta">
     {% if pub.authors %}{{ pub.authors }}{% endif %}
-    {% assign display_year = pub.year | default: pub.date | date: "%Y" %}
-    {% if pub.arxiv %}, <em>arXiv:{{ pub.arxiv }}</em>
-    {% if display_year %} ({{ display_year }}){% endif %}
-    {% if pub.paperurl %} – <a href="{{ pub.paperurl }}">preprint</a>{% endif %}
+
+    
+
+    {% if pub.arxiv %}, <em>arXiv:{{ pub.arxiv }}</em>{% endif %}
+
+    {%- comment -%} Set year from date or fallback to pub.year {%- endcomment -%}
+    {% assign display_year = pub.date | date: "%Y" %}
+    {% if display_year == "1970" or display_year == "" %}
+      {% assign display_year = pub.year %}
     {% endif %}
+
+    {% if display_year %} ({{ display_year }}){% endif %}
+
+    {% if pub.paperurl %} – <a href="{{ pub.paperurl }}" target="_blank">preprint</a>{% endif %}
+    {% if pub.codeurl %} – <a href="{{ pub.codeurl }}" target="_blank">code</a>{% endif %}
+
   </p>
 </div>

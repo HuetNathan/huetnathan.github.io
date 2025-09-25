@@ -13,6 +13,6 @@ Research interests
 ======
 
 - <b>Extreme value theory</b>: multivariate and univariate theory, regular variation, statistical learning for extremes
-- <b>Environmental sciences</b>:
+- <b>Environmental sciences</b>: sea level, hydrology
 - <b>Statistical learning</b>: dimension reduction, concentration, supervised learning
 - <b>Functional data analysis</b>: Hilbertian random elements, operator theory

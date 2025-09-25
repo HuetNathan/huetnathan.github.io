@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  background: var(--global-head-bg-color);
   height: fit-content;
   top: 0;
   width: 100%;
@@ -45,23 +45,20 @@
 }
 
 .masthead__menu {
-
   ul {
+    display: flex;               /* horizontal layout */
+    justify-content: flex-end;   /* push items to the right */
+    align-items: center;         /* vertical alignment */
     margin: 0;
     padding: 0;
-    clear: both;
-    list-style-type: none;
+    list-style: none;
   }
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
-  display: block;
+  background-color: var(--global-head-bg-color);
+  display: inline-block;       /* horizontal alignment for flex items */
   list-style-type: none;
   white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
+  margin-left: 1.5rem;         /* space between items */
 }

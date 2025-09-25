@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: var(--global-bg-color);
+  background: var(--global-head-bg-color);
 
   a {
     display: block;
@@ -190,7 +190,7 @@
   }
 
   button {
-    position: absolute;
+    position: relative;
     height: 2.5rem;
     right: 0;
     padding: 0 0.5rem;
@@ -226,6 +226,8 @@
     }
 
     #theme-toggle {
+      position: relative;
+      margin-right: 0;
       a {
         width: 25px;
         display: flex;

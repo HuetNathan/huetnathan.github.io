@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<h2>Teaching Assistant</h2>
+<ul>
+{% assign assistants = site.teaching | where: "role", "assistant" | sort: "years" | reverse %}
+{% for pub in assistants %}
+  {% include custom-teaching.html pub=pub %}
 {% endfor %}
+</ul>

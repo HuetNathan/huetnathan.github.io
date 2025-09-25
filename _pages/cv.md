@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+<p><strong>PDF CV:</strong> <a href="/files/CV_Nathan_Huet.pdf" download>Download here</a></p>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2021 - 2024: <strong>PhD in Statistics and Machine Learning</strong>, Telecom Paris, Institut Polytechnique de Paris, <em>Statistical learning for multivariate and functional extremes</em>, under the supervision of Stephan Clémençon and Anne Sabourin.
 
-Work experience
+* 2020 - 2021: <strong>M2 Mathematics of Randomness : Probability and Statistics</strong>, Faculté des Sciences d'Orsay, Université Paris-Saclay.
+
+* 2019 - 2020: <strong>M1 Fundamental Mathematics</strong>, Faculté des Sciences d'Orsay, Université Paris-Saclay.
+
+* 2018 - 2019: <strong>L3 Applied and Fundamental Mathematics</strong>, Faculté des Sciences d'Orsay, Université Paris-Saclay.
+
+* 2015 - 2018: <strong>Preparatory Class (MPSI-MP)</strong>, Lycée Chrestien de Troyes.
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2024 - present: <strong>Postdoctoral researcher</strong>, Ca' Foscari University, Venice, Statistical for Data-centric Environmental Studies, under the supervision of Ilaria Prosdocimi.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2021 - November 2024: <strong>PhD student</strong>, Telecom Paris, Institut Polytechnique de Paris, Palaiseau, Statistical learning for multivariate and functional extremes, under the supervision of Stephan Clémençon and Anne Sabourin.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* June 2022: <strong>MLSS^N</strong>, Faculty of Management and Social Communication, Jagiellonian University, Kraków, Machine Learning and Neurosciences Summer School.
+
+* March 2022: <strong>ERCE courses</strong>, Institut Henri Poincaré, Paris, lectures on extremes and environmental risks.
+
+* April 2021 - September 2021: <strong>M2 Research Internship</strong>, Telecom Paris, Institut Polytechnique de Paris, Palaiseau, Extreme Value Analysis of Functional Data and Applications to the Detection of Functional Anomalies, under the supervision of Anne Sabourin.
+
+* March 2020 - May 2020: <strong>M1 Research Internship</strong>, Faculté des Sciences d'Orsay, Université Paris-Saclay, Exploration-Exploitation Dilemma, under the supervision of Christophe Giraud.
+
+Miscellanea
+======
+* November 2023 - November 2024: <strong>Member of the Council of IDS PhD Students</strong>.
+
+* October 2021 - November 2024: <strong>IDS PhD Student Representative</strong> at the IDS Council.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <strong>Languages</strong>: French (native), English (fluent), Italian (learning in progress), Spanish (elementary).
 
-Publications
+* <strong>Programming languages</strong>: Python, R.
+
+Hobbies
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Cinema, Literature, Tennis, Hiking, Football, Board games.
+ 
