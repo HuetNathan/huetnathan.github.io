@@ -294,7 +294,7 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   include:
-  - assets/css/custom.css
+  - assets/css/custom.scss
 
 # Outputting
 permalink: /:categories/:title/
