@@ -36,3 +36,7 @@ jobs:
     git commit -m "Automated update"
     git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/HuetNathan/nathanhuet.github.io.git HEAD:master
 
+- name: Fix permission
+  run: |
+    chmod a+x bin/*
+    git commit -am "add execute permission to bin/deploy
