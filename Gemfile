@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
+  gem 'wdm'
   gem 'tzinfo-data'
   gem 'tzinfo', '>= 1', '< 3'
   gem 'wdm','>=0.1.0'
