@@ -23,7 +23,7 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_site.jpg"
+  avatar           : "photo_site.avif"
   name             : "Nathan Huet"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher in Statistics"

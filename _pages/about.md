@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+drescription: "Official academic website of Nathan Huet, postdoctoral researcher focusing on extreme value theory at the Ca' Foscari University of Venice."
 author_profile: true
 redirect_from: 
   - /about/
