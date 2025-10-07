@@ -51,5 +51,5 @@ Skills
 
 Hobbies
 ======
-Cinema, Literature, Tennis, Hiking, Football, Board games.
+Cinema, Literature, Tennis, Hiking, Football, Board games. <a href="/joliment_dit/" id="special-link">Joliment dit</a>
  

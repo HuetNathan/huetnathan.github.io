@@ -114,3 +114,29 @@ body > *:last-child {
   font-size: 2.2rem; /* adjust as needed */
   font-weight: bold;
 }
+
+
+
+
+
+
+#special-link {
+  color: #fff; /* deep pink */
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+#special-link:hover {
+  color: #fff; /* darker pink on hover */
+}
+
+/* Dark mode version */
+[data-theme="dark"] #special-link {
+  color: #474747; /* bright pink for dark background */
+}
+
+[data-theme="dark"] #special-link:hover {
+  color: #474747;
+}
+
