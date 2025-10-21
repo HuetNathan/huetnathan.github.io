@@ -7,11 +7,7 @@
 <div class="pub-item">
   <h3 class="pub-title">{{ pub.title }}</h3>
   <p class="pub-meta">
-    {% if pub.authors %}{{ pub.authors }}{% endif %}
-
-    
-
-    {% if pub.arxiv %}, <em>arXiv:{{ pub.arxiv }}</em>{% endif %}
+    {{ pub.authors }}, <em>arXiv:{{ pub.arxiv }}</em>
 
     {%- comment -%} Set year from date or fallback to pub.year {%- endcomment -%}
     {% assign display_year = pub.date | date: "%Y" %}
