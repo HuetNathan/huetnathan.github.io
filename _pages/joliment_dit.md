@@ -82,10 +82,42 @@ author_profile: true
 
 <div style="text-align: left; margin: 2rem 0;">
   <blockquote style="border-left: none">
+    <p>J’aime quand on dit des absurdités. Se tromper est le privilège naturel de l’homme par rapport à tous les autres organismes. Ceci conduit à la vérité ! Je suis homme parce que je déraisonne.</p>
+    <footer>Crime et châtiment <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
     <p>you can see everybody, and nobody can see you.</p>
     <footer style="font-style: normal;">
       <strong>Alex Blackmar</strong> (Johnny Depp)
       <cite style="font-style: normal;"><em>Arizona Dream</em> (Emir Kusturica)</cite>
+    </footer>
+  </blockquote>
+</div>
+
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Il jouait cet air avec une lenteur étrange et la mélodie semblait distendue, embourbée dans un marécage d'où les notes avaient de la peine à se dégager.</p>
+    <footer>Rue des Boutiques Obscures <cite style="font-style: normal;"><strong>Patrick Modiano</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Il prononçait à la russe. C'était très doux : le bruissement du vent dans les feuillages.</p>
+    <footer>Rue des Boutiques Obscures <cite style="font-style: normal;"><strong>Patrick Modiano</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>In a musical, nothing dreadful ever happens.</p>
+    <footer style="font-style: normal;">
+      <strong>Selma</strong> (Björk)
+      <cite style="font-style: normal;"><em>Dancer in the Dark</em> (Lars von Trier)</cite>
     </footer>
   </blockquote>
 </div>
