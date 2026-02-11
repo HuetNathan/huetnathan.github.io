@@ -121,3 +121,10 @@ author_profile: true
     </footer>
   </blockquote>
 </div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>En vérité, on parle souvent de la cruauté "bestiale" de l'homme, mais c'est on ne peut plus injuste et insultant pour les bêtes : un animal ne peut jamais être aussi cruel que l'homme, si artiste, si raffiné dans sa cruauté.</p>
+    <footer>Les Frères Karamazov <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
+  </blockquote>
+</div>
