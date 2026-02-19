@@ -128,3 +128,10 @@ author_profile: true
     <footer>Les Frères Karamazov <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
   </blockquote>
 </div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Quantité de têtes se sont déja retournées. Suffisamment nombreuses pour que je me sente vraiment seul.</p>
+    <footer>Au bonheur des ogres <cite style="font-style: normal;"><strong>Daniel Pennac</strong></cite></footer>
+  </blockquote>
+</div>
