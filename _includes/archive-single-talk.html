@@ -4,6 +4,7 @@
       <strong>{{ post.date | date: "%B %Y" }}</strong> : {{ post.type | capitalize }} on "{{ post.title }}" at {{ post.conference }}, {{ post.university }}, {{ post.city }}
       {% if post.manuscript %} – <a href="{{ post.manuscript | relative_url }}">manuscript</a>{% endif %}
       {% if post.slides %} – <a href="{{ post.slides | relative_url }}" download>slides</a>{% endif %}
+      {% if post.poster_file %} – <a href="{{ post.poster_file | relative_url }}" download>poster</a>{% endif %}
     </p>
 
     {% if post.excerpt %}

@@ -8,5 +8,6 @@
     {{ pub.date | date: "%B %Y" }} : {{ pub.type | capitalize }} on "{{ pub.title }}" at {{ pub.conference }}, {{ pub.university }}, {{ pub.city }}
     {% if pub.manuscript %} – <a href="{{ pub.manuscript | relative_url }}">manuscript</a>{% endif %}
     {% if pub.slides %} – <a href="{{ pub.slides | relative_url }}" download>slides</a>{% endif %}
+    {% if pub.poster_file %} – <a href="{{ pub.poster_file | relative_url }}" download>poster</a>{% endif %}
   </p>
 </div>

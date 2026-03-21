@@ -135,3 +135,10 @@ author_profile: true
     <footer>Au bonheur des ogres <cite style="font-style: normal;"><strong>Daniel Pennac</strong></cite></footer>
   </blockquote>
 </div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Il lui suffisait de se dire: je ne serai plus ici; je serai ailleurs. Ailleurs: c'était un mot encore plus beau que les plus beaux noms.</p>
+    <footer>Les Mandarins <cite style="font-style: normal;"><strong>Simone de Beauvoir</strong></cite></footer>
+  </blockquote>
+</div>

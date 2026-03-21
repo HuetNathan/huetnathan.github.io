@@ -6,5 +6,6 @@
     {% if pub.year %} ({{ pub.year }}){% else %} ({{ pub.date | date: "%Y" }}){% endif %}
     {% if pub.manuscript %} – <a href="{{ pub.manuscript | relative_url }}">manuscript</a>{% endif %}
     {% if pub.slides %} – <a href="{{ pub.slides | relative_url }}" download>slides</a>{% endif %}
+    {% if pub.poster_file %} – <a href="{{ pub.poster_file | relative_url }}" download>poster</a>{% endif %}
   </p>
 </div>

@@ -25,7 +25,7 @@ Education
 
 Research Experience
 ======
-* December 2024 - present: <strong>Postdoctoral researcher</strong>, Ca' Foscari University, Venice, Statistical for Data-centric Environmental Studies, under the supervision of Ilaria Prosdocimi.
+* December 2024 - present: <strong>Postdoctoral researcher</strong>, Ca' Foscari University, Venice, Statistical Methods for Data-centric Environmental Studies, under the supervision of Ilaria Prosdocimi.
 
 * October 2021 - November 2024: <strong>PhD student</strong>, Telecom Paris, Institut Polytechnique de Paris, Palaiseau, Statistical learning for multivariate and functional extremes, under the supervision of Stephan Clémençon and Anne Sabourin.
 
@@ -51,5 +51,5 @@ Skills
 
 Hobbies
 ======
-Cinema, Literature, Tennis, Hiking, Football, Board games. <a href="/joliment_dit/" id="special-link">Joliment dit</a>
+Cinema, Literature, Tennis, Hiking, Football, Board games, <a href="/joliment_dit/" id="special-link">Joliment dit</a>
  
