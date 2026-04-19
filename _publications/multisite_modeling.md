@@ -1,11 +1,13 @@
 ---
 title: "Multi-site modelling and reconstruction of past extreme skew surges along the French Atlantic coast"
 collection: publications
-date: 2025-05-01
+date: 2026-04-16
 authors: "N. Huet, P. Naveau and A. Sabourin"
-arxiv: "2505.00835"
-year: "2025"
-paperurl: "https://www.arxiv.org/abs/2505.00835"
+journal: "Journal of the Royal Statistical Society Series C: Applied Statistics"
+year: "2026"
+volume: ""
+paperurl: "https://doi.org/10.1093/jrsssc/qlag024"
 codeurl: "https://github.com/HuetNathan/extremesealevels"
-type: preprint
+type: publication
 ---
+
