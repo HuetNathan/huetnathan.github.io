@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am currently a post-doctoral researcher at Università Ca' Foscari Venezia, in the Department of  Environmental Statistics, Informatics and Statistics, since December 2024, under the supervision of Ilaria Prosdocimi. I completed a PhD entitled "Statistical Learning for Multivariate and Functional Extremes", at Telecom Paris, in the IDS department, under the supervision of Stephan Clémençon and Anne Sabourin.
+Hello, I am currently a postdoctoral researcher at Università Ca' Foscari Venezia, in the Department of  Environmental Statistics, Informatics and Statistics, since December 2024, under the supervision of Ilaria Prosdocimi. I completed a PhD entitled "Statistical Learning for Multivariate and Functional Extremes", at Telecom Paris, in the IDS department, under the supervision of Stephan Clémençon and Anne Sabourin.
 
 Research interests
 ======

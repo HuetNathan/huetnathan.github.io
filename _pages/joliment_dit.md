@@ -138,7 +138,21 @@ author_profile: true
 
 <div style="text-align: right; margin: 2rem 0;">
   <blockquote style="border-left: none">
-    <p>Il lui suffisait de se dire: je ne serai plus ici; je serai ailleurs. Ailleurs: c'était un mot encore plus beau que les plus beaux noms.</p>
+    <p>Il lui suffisait de se dire: je ne serai plus ici; je serai ailleurs. Ailleurs : c'était un mot encore plus beau que les plus beaux noms.</p>
     <footer>Les Mandarins <cite style="font-style: normal;"><strong>Simone de Beauvoir</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Les familles heureuses se ressemblent toutes ; les familles malheureuses sont malheureuses chacune à leur façon.</p>
+    <footer>Anna Karénine <cite style="font-style: normal;"><strong>Léon Tolstoï</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Il descendit donc sur la glace, évitant de la regarder en face, comme le soleil; mais, de même que le soleil, il n'avait pas besoin de la regarder pour la voir.</p>
+    <footer>Anna Karénine <cite style="font-style: normal;"><strong>Léon Tolstoï</strong></cite></footer>
   </blockquote>
 </div>

@@ -6,6 +6,6 @@ authors: "N. Huet and I. Prosdocimi"
 arxiv: "2510.03338"
 year: "2025"
 paperurl: "http://arxiv.org/abs/2510.03338"
-codeurl: "https://github.com/HuetNathan/robustGEV"
+codeurl: "https://github.com/HuetNathan/MDPDE_for_GEV"
 type: preprint
 ---
