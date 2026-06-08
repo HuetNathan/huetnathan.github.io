@@ -156,3 +156,17 @@ author_profile: true
     <footer>Anna Karénine <cite style="font-style: normal;"><strong>Léon Tolstoï</strong></cite></footer>
   </blockquote>
 </div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>L'amour abstrait de l'humanité est presque toujours de l'égoïsme.</p>
+    <footer>L'idiot <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Un bâton a toujours deux bouts.</p>
+    <footer>L'idiot <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
+  </blockquote>
+</div>
