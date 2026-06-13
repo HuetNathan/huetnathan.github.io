@@ -170,3 +170,17 @@ author_profile: true
     <footer>L'idiot <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
   </blockquote>
 </div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Cet homme croyait surprendre notre troisième baiser, il surprenait le même.</p>
+    <footer>Le Diable au corps <cite style="font-style: normal;"><strong>Raymond Radiguet</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Ce qui chagrine, ce n'est pas de quitter la vie, mais de quitter ce qui lui donne un sens.</p>
+    <footer>Le Diable au corps <cite style="font-style: normal;"><strong>Raymond Radiguet</strong></cite></footer>
+  </blockquote>
+</div>
