@@ -184,3 +184,24 @@ author_profile: true
     <footer>Le Diable au corps <cite style="font-style: normal;"><strong>Raymond Radiguet</strong></cite></footer>
   </blockquote>
 </div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>On n'est pas heureux : notre bonheur, c'est le silence du malheur.</p>
+    <footer>Journal <cite style="font-style: normal;"><strong>Jules Renard</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>ce n’est pas à un autre homme intelligent qu’un homme intelligent aura peur de paraître bête</p>
+    <footer>Du côté de chez Swann <cite style="font-style: normal;"><strong>Marcel Proust</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Autrefois on rêvait de posséder le coeur de la femme dont on était amoureux; plus tard, sentir qu'on possède le coeur d'une femme peut suffire à vous en rendre amoureux.</p>
+    <footer>Du côté de chez Swann <cite style="font-style: normal;"><strong>Marcel Proust</strong></cite></footer>
+  </blockquote>
+</div>
