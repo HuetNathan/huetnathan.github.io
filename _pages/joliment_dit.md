@@ -82,7 +82,7 @@ author_profile: true
 
 <div style="text-align: left; margin: 2rem 0;">
   <blockquote style="border-left: none">
-    <p>J’aime quand on dit des absurdités. Se tromper est le privilège naturel de l’homme par rapport à tous les autres organismes. Ceci conduit à la vérité ! Je suis homme parce que je déraisonne.</p>
+    <p>J’aime quand on dit des absurdités. Se tromper est le privilège naturel de l’homme par rapport à tous les autres organismes. Ceci conduit à la vérité! Je suis homme parce que je déraisonne.</p>
     <footer>Crime et châtiment <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
   </blockquote>
 </div>
@@ -145,7 +145,7 @@ author_profile: true
 
 <div style="text-align: left; margin: 2rem 0;">
   <blockquote style="border-left: none">
-    <p>Les familles heureuses se ressemblent toutes ; les familles malheureuses sont malheureuses chacune à leur façon.</p>
+    <p>Les familles heureuses se ressemblent toutes; les familles malheureuses sont malheureuses chacune à leur façon.</p>
     <footer>Anna Karénine <cite style="font-style: normal;"><strong>Léon Tolstoï</strong></cite></footer>
   </blockquote>
 </div>
