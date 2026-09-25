@@ -205,3 +205,34 @@ author_profile: true
     <footer>Du côté de chez Swann <cite style="font-style: normal;"><strong>Marcel Proust</strong></cite></footer>
   </blockquote>
 </div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>That's not what I do dear. That's what you call it. But they need help. Who else they got to turn to? No one. I help them out.</p>
+    <footer style="font-style: normal;">
+      <strong>Vera Drake</strong> (Imelda Staunton)
+      <cite style="font-style: normal;"><em>Vera Drake</em> (Mike Leigh)</cite>
+    </footer>
+  </blockquote>
+</div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>All animals are equal, but some animals are more equal than others.</p>
+    <footer>Animal Farm <cite style="font-style: normal;"><strong>George Orwell</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: right; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>Man is the only creature that consumes without producing. He does not give milk, he does not lay eggs, he is too weak to pull the plough, he cannot run fast enough to catch rabbits. Yet he is lord of all the animals.</p>
+    <footer>Animal Farm <cite style="font-style: normal;"><strong>George Orwell</strong></cite></footer>
+  </blockquote>
+</div>
+
+<div style="text-align: left; margin: 2rem 0;">
+  <blockquote style="border-left: none">
+    <p>L'homme est malheureux parce qu'il ne sait pas qu'il est heureux.</p>
+    <footer>Les Démons <cite style="font-style: normal;"><strong>Fiodor Dostoïevski</strong></cite></footer>
+  </blockquote>
+</div>
