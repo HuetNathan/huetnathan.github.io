@@ -37,6 +37,11 @@ Research Experience
 
 * March 2020 - May 2020: <strong>M1 Research Internship</strong>, Faculté des Sciences d'Orsay, Université Paris-Saclay, Exploration-Exploitation Dilemma, under the supervision of Christophe Giraud.
 
+Reviewing
+======
+
+I served as a reviewer for Journal of Hydrology, Journal of Flood Risk Management, ESAIM: Probability and Statistics, Extremes, Journal of American Statistical Association, Environmetrics, Statistical Methods and Applications, AISTATS 2023 and ICML 2023.
+
 Miscellanea
 ======
 * November 2023 - November 2024: <strong>Member of the Council of IDS PhD Students</strong>.

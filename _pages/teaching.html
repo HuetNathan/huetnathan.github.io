@@ -5,6 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<h2>Lecturer</h2>
+<ul>
+{% assign assistants = site.teaching | where: "role", "lecturer" | sort: "years" | reverse %}
+{% for pub in assistants %}
+  {% include custom-teaching.html pub=pub %}
+{% endfor %}
+</ul>
+
 <h2>Teaching Assistant</h2>
 <ul>
 {% assign assistants = site.teaching | where: "role", "assistant" | sort: "years" | reverse %}
